@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: mccl.Main
+Class-Path: lib/gson-2.10.1.jar lib/jna-5.14.0.jar lib/jna-platform-5.14.0.jar
+

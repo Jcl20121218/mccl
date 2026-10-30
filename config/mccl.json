@@ -1,0 +1,13 @@
+{
+  "defaultMem": "4G",
+  "defaultJavaPath": "",
+  "defaultThreads": 8,
+  "lastMcVersion": "",
+  "defaultInstance": "",
+  "downloadThreads": 12,
+  "instances": {
+    "1.21.1-NeoForge_21.1.255": {
+      "mem": "4G"
+    }
+  }
+}
